@@ -24,7 +24,7 @@
  -->
 | Using shell script             |  Using python script |
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/54326088/136813181-434cc0dd-27aa-4a31-ad94-a2e94fd5c375.gif)  |  ![](https://user-images.githubusercontent.com/54326088/136756679-5c8328fd-7fda-462e-8d3a-fd4e1c063553.gif)
+![](https://im.ezgif.com/tmp/ezgif-1-c4babba09e56.gif)  |  ![](https://user-images.githubusercontent.com/54326088/136756679-5c8328fd-7fda-462e-8d3a-fd4e1c063553.gif)
 
 
 

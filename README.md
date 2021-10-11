@@ -90,3 +90,4 @@
 - [ ] **Use the python script to create a python library:** 
       It should be like a shell command,like doing `Listreqs requirements.txt` after activating the virtual environment should create a `requirements.txt` with all the installed package         name and verison inside the current directory.  
 - [ ] Create `requirements.txt` from a public repo where `requirements.txt` is not given. Use `python poetry` for this.
+- [ ] Create `requirements.txt` from base environment, using basic regex

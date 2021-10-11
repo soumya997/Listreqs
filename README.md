@@ -29,7 +29,7 @@
 
 
 # How to use:
-`Use the only python script:`
+### `Use the only python script:`
 1. Create your virtual env, 
     ```
     - pip install virtualenv
@@ -46,7 +46,9 @@
     - `pip list > requirements.txt` -> it will put the output of the `pip list` command inside the `requirements.txt`
     - `python listreqs.py`  and give the path of the previously created `requirements.txt`
 4. Boom!!!
-`Use only shell script:`
+
+
+### `Use only shell script:`
 1. Create your virtual env, 
     ```
     - pip install virtualenv
@@ -82,7 +84,7 @@
 # Know more about How to create virtual environment:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3" alt="Recent Article 3"> 
 
- # todo:
+ # todos:
 
 - [x] create a single shell script to get the job done.
 - [ ] Use the python script to create a python library.

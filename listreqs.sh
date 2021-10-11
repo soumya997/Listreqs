@@ -7,13 +7,14 @@ else
 	read -p "Enter the requirements file name : " file
 	if [ -z "$file" ];
 	then
-		touch requirements.txt
-		pip list > requirements.txt
 		file="requirements.txt"
 	fi
 
 fi
 
+touch $file
+pip list > $file
+
 sed -i '1,2d' $file
-sed -i 's/ \{2,\}/ /g' $file
+sed -i 's/ \{1,\}/ /g' $file
 sed -i 's/\ /==/g' $file

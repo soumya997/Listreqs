@@ -31,13 +31,15 @@
 # How to use:
 `Use the only python script:`
 1. Create your virtual env, 
+    ```
     - pip install virtualenv
     - mkdir TextGenEnv
     - virtualenv TextGenEnv
     - activate the env:  
-      + TextGenEnv\Scripts\activate 
-      + (for bash source ./Scripts/activate)
-
+      + for cmd -> TextGenEnv\Scripts\activate 
+      + (for git bash, source ./Scripts/activate)
+      + (for linux terminal, source TextGenEnv/bin/activate)
+    ```
 2. do your required installations there
 3. And when you need to create your requirements.txt do these steps,
     - activate the environment using above command
@@ -46,13 +48,14 @@
 4. Boom!!!
 `Use only shell script:`
 1. Create your virtual env, 
+    ```
     - pip install virtualenv
     - mkdir TextGenEnv
     - virtualenv TextGenEnv
     - activate the env:  
       + TextGenEnv\Scripts\activate 
       + (for bash source ./Scripts/activate)
-
+    ```
 2. do your required installations there
 3. And when you need to create your requirements.txt do these steps,
     - `sh listreqs.sh` and pass the file name `requirements.txt`.

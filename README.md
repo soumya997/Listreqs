@@ -13,7 +13,7 @@
 </p>
 
 <i>
-<strong>Listreqs</strong> is an simple <code>requirements.txt</code> generator. <strong>Its an altrnative of <code>pipreqs</code></strong>. Where in pipreqs, it helps you to Generate requirements.txt file for any project based on imports, but in Listreqs you need to create a virtual environment first, and do your required installations there, And when you need to create your requirements.txt use <code>Listreqs</code>.
+<strong>Listreqs</strong> is a simple <code>requirements.txt</code> generator. <strong>Its an altrnative of <code>pipreqs</code></strong>. Where in pipreqs, it helps you to Generate requirements.txt file for any project based on imports, but in Listreqs you need to create a virtual environment first, and do your required installations there, And when you need to create your requirements.txt use <code>Listreqs</code>.
 </i>
 
 </p>

@@ -71,4 +71,5 @@
          ```
 # todo:
 
-- [ ] create a single shell script to get the job done.
+- [x] create a single shell script to get the job done.
+- [ ] Convert the python script into a python library.

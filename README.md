@@ -2,7 +2,7 @@
 <p align="center">
 <a href=""><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 <br/>
-<img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Resume-analyzer?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/soumya997/Listreqs?style=for-the-badge">
 
 </p>
  

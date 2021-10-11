@@ -84,8 +84,9 @@
 # Know more about How to create virtual environment:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3" alt="Recent Article 3"> 
 
- # todos:
+# todos:
 
-- [x] create a single shell script to get the job done.
+- [x] Create a single shell script to get the job done.
 - [ ] **Use the python script to create a python library:** 
       It should be like a shell command,like doing `Listreqs requirements.txt` after activating the virtual environment should create a `requirements.txt` with all the installed package         name and verison inside the current directory.  
+- [ ] Create `requirements.txt` from a public repo where `requirements.txt` is not given. Use `python poetry` for this.

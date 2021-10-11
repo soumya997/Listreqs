@@ -87,4 +87,4 @@
  # todos:
 
 - [x] create a single shell script to get the job done.
-- [ ] Use the python script to create a python library.
+- [ ] Use the python script to create a python library. Is should be like a shell command,like doing `python Listreqs` after activating the virtual environment should create a `requirements.txt` with all the installed package name and verison inside the current directory.  

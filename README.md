@@ -19,7 +19,13 @@
 </p>
 <br>
 
-![ezgif-6-11ef5ffcbfc5](https://user-images.githubusercontent.com/54326088/136756679-5c8328fd-7fda-462e-8d3a-fd4e1c063553.gif)
+<!-- ![ezgif-6-11ef5ffcbfc5](https://user-images.githubusercontent.com/54326088/136756679-5c8328fd-7fda-462e-8d3a-fd4e1c063553.gif)
+![libreqs1](https://user-images.githubusercontent.com/40317114/136805935-ed7a07a2-8406-44e2-8ec6-50296cc9f7d1.gif)
+ -->
+| Using shell script             |  Using python script |
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/54326088/136813181-434cc0dd-27aa-4a31-ad94-a2e94fd5c375.gif)  |  ![](https://user-images.githubusercontent.com/54326088/136756679-5c8328fd-7fda-462e-8d3a-fd4e1c063553.gif)
+
 
 
 # How to use:

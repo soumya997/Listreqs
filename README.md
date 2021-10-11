@@ -75,10 +75,11 @@
          bash listreqs.sh
          Enter the requirements file name : 
          ```
-# todo:
-
-- [x] create a single shell script to get the job done.
-- [ ] Use the python script to create a python library.
 
 # Know more about How to create virtual environment:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khanfarhan10/3" alt="Recent Article 3"> 
+
+ # todo:
+
+- [x] create a single shell script to get the job done.
+- [ ] Use the python script to create a python library.

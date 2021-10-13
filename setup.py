@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name = 'Listreqs',
-    version = '0.0.4',
+    version = '0.0.5',
     description = "Listreqs is a simple requirements.txt generator. It's an alternative to pipreqs.",
     long_description = long_description,
     long_description_content_type = "text/markdown",
